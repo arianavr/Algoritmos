@@ -1,0 +1,1 @@
+text<- read.csv ("C://Users/pvill/desktop/instancia_ejemplo.txt", FALSE)
