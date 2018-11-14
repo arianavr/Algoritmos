@@ -1,0 +1,8 @@
+Suma<-function(Arreglo){
+Arreglo<-read.csv("C://users/pvill/desktop/M.txt", FALSE)
+for (I in range(1:7)) {
+  for (V in range(1:4)) {
+  }
+}
+}
+sum(Arreglo[,])
